@@ -1,12 +1,7 @@
 streamlit
 torch
 transformers
-datasets
-datasets[vision]
-torch
-tensorflow
-huggingface_hub
-pip
-Pillow
-defusedxml 
-olefile
+
+# API requirementes fastapi
+fastapi
+uvicorn
