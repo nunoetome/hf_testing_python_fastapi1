@@ -1,6 +1,6 @@
+import streamlit as st
 from typing import Union
 from fastapi import FastAPI
-import streamlit as st
 from transformers import pipeline
 
 MODELS = [
@@ -12,7 +12,9 @@ MODELS = [
 APP = FastAPI()
 
 def main():
-    
+
+    st.title("Testing FastAPI")
+    st("FastAPI is an API solution for python ")
     
     @APP.get("/")
     async def readv_root():
