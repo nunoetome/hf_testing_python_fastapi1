@@ -1,0 +1,13 @@
+heteronimos
+
+    - nome
+    - profissão/s
+    - Lingua
+    - configs
+    - canais em que trabalha
+
+
+exemplos de profissões
+    jornalista escrior
+    jornalista pivot
+    desenhador
